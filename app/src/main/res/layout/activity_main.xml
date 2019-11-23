@@ -28,7 +28,7 @@
         android:background="#45CE30"
         android:drawableLeft="@mipmap/ic_launcher"
         android:fontFamily="monospace"
-        android:text="GO TO MAPS PAGE"
+        android:text="OPEN MAP ACTIVITY"
         android:onClick="go"
         android:textColor="#EAF0F1"
         android:textSize="20dp"
